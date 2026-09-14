@@ -1,5 +1,5 @@
 # 💫 About Me:
-👌 Full-Stack- / App-Developer<br> 👨‍💻Founder of NEXTAPP GmbH<br> 👨‍💻Founder of VeriFleet GmbH<br> 👨‍💻Partner of Digital Fleet Solutions GmbH<br> 👨‍💻Founder of P. Jacobs Systems
+👌 Full-Stack- / App-Developer<br> 👨‍💻Founder of NEXTAPP GmbH<br> 👨‍💻Founder of VeriFleet GmbH
 
 
 # 💻 Tech Stack:
